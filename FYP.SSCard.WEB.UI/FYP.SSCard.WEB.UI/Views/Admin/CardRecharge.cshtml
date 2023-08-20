@@ -1,0 +1,160 @@
+﻿
+@{
+    ViewBag.Title = "CardRecharge";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+}
+
+<h2>Card Recharge</h2>
+
+@*@Html.DropDownList("StudentId");*@
+@*@Html.DropDownList("StudentId", (IEnumerable<SelectListItem>)ViewBag.stdentIds, null, new { @class = "form-control" })*@
+
+<div class="col-lg-12">
+    <button class="btn btn-default " onclick="OpenProcessingDialog()">Scan Card</button><br /><br />
+
+    @using (Html.BeginForm("CardRecharge", "Admin", FormMethod.Post))
+    {
+        <input type="text" id="studentId" name="studentId" placeholder="Enter student Id" class="form-control" />
+        <span class="form-control-feedback"></span>
+        <input type="text" id="amount" name="amount" placeholder="Enter amount" class="form-control" />
+        <span class="form-control-feedback"></span>
+
+        <input type="text" id="cardId" name="cardId" placeholder="Enter card id"  class="form-control" />
+        <span class="form-control-feedback"></span>
+
+        <button class="btn btn-group-lg btn-primary" style="margin-top:10px;" type="submit"> Recharge Card</button>
+    }
+
+</div>
+
+
+<script>
+    function OpenProcessingDialog() {
+        var modal = document.getElementById("myModal");
+        modal.style.display = "block";
+        setTimeout(FetchCardInformation, 3000);
+        setTimeout(ApiCall, 1000);
+    }
+    function FetchCardInformation() {
+        $.ajax({
+            type: "GET",
+            url: "/Admin/FetchCardInformation/",
+            async: false,
+            success: function (cardId) {
+                document.getElementById("loadingText").innerText = "";
+                document.getElementById("loadingText").innerText = "Recently Scanned Card Information: Card Id: " + cardId;
+                document.getElementById("cardId").value = cardId;
+            }
+        });
+    }
+    function ApiCall() {
+
+        $.ajax({
+            type: "GET",
+            url: "/CardScannerAPI/Add/",
+            async: false
+
+        });
+
+
+    }
+</script>
+
+
+
+
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* The Modal (background) */
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        padding-top: 100px; /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+
+    /* The Close Button */
+    .close {
+        color: #aaaaaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+</style>
+
+<body>
+
+
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close" id="closeBox">&times;</span>
+            <p id="loadingText">Card is being scanned, please wait.. <img src="~/Images/loadin.gif" /></p>
+            <button class="btn btn-group-lg btn-primary" style="margin-top:10px;" type="button" id="apply"> Apply</button>
+        </div>
+
+    </div>
+
+    <script>
+        // Get the modal
+        var modal = document.getElementById("myModal");
+
+        // Get the button that opens the modal
+        var btn = document.getElementById("myBtn");
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementById("closeBox");
+
+        // When the user clicks the button, open the modal
+        //btn.onclick = function () {
+        //    modal.style.display = "block";
+        //}
+        
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+
+
+        var applyButton = document.getElementById("apply");
+        applyButton.onclick = function () {
+            modal.style.display = "none";
+        }
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+
+

@@ -1,0 +1,88 @@
+﻿@model IEnumerable<FYP.SSCard.WEB.UI.Models.Documents.DocumentsModel>
+@using FYP.SSCard.WEB.UI.Models
+@{
+    ViewBag.Title = "Manage";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+    AlertModel alert = (AlertModel)TempData["AlertMessage"];
+}
+
+@section myscript{
+    <script type="text/javascript">
+        $("#createLink,.dgeditbtn,.dgdeletebtn").click(function (event) {
+            event.preventDefault();
+            var url = $(this).attr("href");
+            var caption = $(this).data("caption");
+            $.ajax(
+                {
+                    url: url
+                }).done(function (result) {
+                    $("#modal-title").html(caption);
+                    $("#mydialog-body").html(result);
+                    $("#mydialog").modal();
+
+                });
+        });
+    </script>
+
+}
+@if (alert != null)
+{
+    @Html.Partial("~/Views/Shared/_AlertView.cshtml", alert)
+
+}
+@Html.AntiForgeryToken()
+<div class="modal fade" id="mydialog" tabindex="-1" role="dialog" aria-labelledby="mydialog-label">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div id="mydialog-header" class="modal-header bg-primary">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mydialog-title"></h4>
+            </div>
+            <div id="mydialog-body" class="modal-body"></div>
+        </div>
+    </div>
+</div>
+<table class="table table-lg table-bordered">
+    <thead>
+        <tr class="bg-primary">
+            <th colspan="8">
+                <span>@ViewBag.Title &nbsp;&nbsp; <span class="hidden-print">[ <a id="createLink" href="/documents/create" data-caption="Add Student Documents">Add Documents</a> ]</span></span>
+                <span class="clearfix"></span>
+            </th>
+        </tr>
+        <tr class="bg-primary">
+            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">Doc_Image</th>
+            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">Roll No</th>
+            <th class="col-lg-2 col-md-2 col-sm-1 col-xs-1">Board</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Passing Year</th>
+            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-2">Subject</th>
+            @*<th class="col-lg-1 col-md-1 col-sm-2 col-xs-2">Qualification</th>*@
+            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">T_Marks</th>
+            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">O_Marks</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td class="col-lg-1 col-md-1 col-sm-1 col-xs-2"><img src="@Url.Content(m.Imageupload)" alt="Result Card" class="dgicon" /></td>
+                <td class="col-lg-1 col-md-1 col-sm-1 col-xs-2">@m.StudentRollno</td>
+                <td class="col-lg-2 col-md-2 col-sm-1 col-xs-1">@m.Board</td>
+                <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">@m.PassingYear</td>
+                <td class="col-lg-1 col-md-1 col-sm-1 col-xs-2">@m.Subject.</td>
+                @* <td class="col-lg-1 col-md-1 col-sm-2 col-xs-2">@m.QualificationCategories</td>*@
+                <td class="col-lg-1 col-md-1 col-sm-1 col-xs-1">@m.TotalMarks</td>
+                <td class="col-lg-1 col-md-1 col-sm-1 col-xs-1">@m.ObtainMarks</td>
+                <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                    <a class="btn btn-xs btn-primary dgdetailsbtn" href="/documents/details/@m.Id"><span class="glyphicon glyphicon-search"></span></a>&nbsp;
+                    <a class="btn btn-xs btn-warning dgeditbtn" href="/documents/edit/@m.Id" data-caption="Edit Student Document"><span class="glyphicon glyphicon-edit"></span></a>&nbsp;
+                    <a class="btn btn-xs btn-danger dgdeletebtn" href="/documents/delete/@m.Id" data-caption="Do you want to delete this Document"><span class="glyphicon glyphicon-trash"></span></a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+

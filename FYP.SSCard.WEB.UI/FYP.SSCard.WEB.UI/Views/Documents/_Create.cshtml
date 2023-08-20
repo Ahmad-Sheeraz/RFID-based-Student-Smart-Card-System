@@ -1,0 +1,80 @@
+﻿@using (Html.BeginForm("create", "documents", FormMethod.Post, new { id = "studentadd", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-inline col-lg-12">
+        <div class="form-group">
+            <div class="input-group ">
+                <label>Qualification</label>
+                @Html.DropDownList("Qualification", (IEnumerable<SelectListItem>)ViewBag.QualificationCategories, "-Select Qualification -", new { @class = "form-control col-lg-5" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group  col-lg-6">
+                <div class="input-group has-feedback">
+                    <label>Result Card</label>
+                    <input type="file" id="photo" name="photo" />
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group ">
+                <div class="input-group has-feedback">
+                    <label>Roll No*</label>
+                    @Html.TextBox("StudentRollno", null, new { @class = "form-control col-lg-6", placeholder = "Enter Roll No", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group ">
+                <div class="input-group has-feedback">
+                    <label>Board/University</label>
+                    @Html.TextBox("Board", null, new { @class = "form-control col-lg-6", placeholder = "Enter Board/University", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group has-feedback">
+                    <label>Passing Year</label>
+                    @Html.TextBox("Passing Year", null, new { @class = "form-control col-lg-6", placeholder = "Enter Passing", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group has-feedback">
+                    <label>Subject</label>
+                    @Html.TextBox("Subjects", null, new { @class = "form-control col-lg-6", placeholder = "Subject", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group has-feedback">
+                    <label>Total Marks</label>
+                    @Html.TextBox("Total Marks", null, new { @class = "form-control col-lg-4", placeholder = "Enter Total Marks", required = "required" })
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group has-feedback">
+                    <label>Obtain Marks</label>
+                    @Html.TextBox("Obtain Marks", null, new { @class = "form-control col-lg-4", placeholder = "Enter Obtain Marks", required = "required" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+    </div>
+    <div class="for-group">
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-save"></span>&nbsp; Save</button>
+        <button type="reset" class="btn btn-default"><span class="glyphicon glyphicon-refresh"></span>&nbsp; Cancel</button>
+    </div>
+}

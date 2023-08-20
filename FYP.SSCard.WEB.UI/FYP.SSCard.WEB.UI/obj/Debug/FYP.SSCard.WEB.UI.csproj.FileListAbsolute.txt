@@ -1,0 +1,528 @@
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\FYP.SSCard.WEB.UI.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\WebGrease.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\StudentSmartCard.dll.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.csproj.CopyComplete
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI\obj\Debug\FYP.SSCard.WEB.UI.pdb

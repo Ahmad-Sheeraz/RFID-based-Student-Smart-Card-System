@@ -1,0 +1,154 @@
+﻿@using (Html.BeginForm("create", "students", FormMethod.Post, new { id = "createstudent", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#genpane" data-toggle="tab"><span class="glyphicon glyphicon-grain"></span> General Info</a></li>
+        <li><a href="#despane" data-toggle="tab"><span class="glyphicon glyphicon-edit"></span> Address</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="genpane" class="tab-pane fade in active">
+            <h4><b>Program Information</b></h4>
+            <hr />
+            @*      <div class="form-group form-inline">
+                    <div class="input-group">
+                        <label>Program</label>
+                        @Html.DropDownList("Category", (IEnumerable<SelectListItem>)ViewBag.Category, "- Select Program -", new { @class = "form-control" })
+                    </div>
+                    &nbsp;
+                    <div id="subcategoriesdiv" class="input-group">
+                    </div>
+                </div>*@
+            <h4><b style="margin-top:10px;">Personal Information</b></h4><hr />
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>Student Image*</label>
+                        <input type="file" id="photo" name="photo" />
+                        <span class="form-control-feedback"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group">
+                        <label>Student ID*</label>
+                        @Html.TextBox("StudentRollno", null, new { @class = "form-control", placeholder = "Enter Student ID", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>First Name*</label>
+                        @Html.TextBox("FirstName", null, new { @class = "form-control", placeholder = "Enter First Name", required = "required" })
+                        <span class="form-control-feedback"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group ">
+                    <div class="input-group has-feedback">
+                        <label>Last Name*</label>
+                        @Html.TextBox("LastName", null, new { @class = "form-control", placeholder = "Enter Last Name", required = "required" })
+                        <span class="form-control-feedback"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>Father Name*</label>
+                        @Html.TextBox("FatherName", null, new { @class = "form-control", placeholder = "Enter Father Name", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group ">
+                    <div class="input-group has-feedback">
+                        <label>Guardian*</label>
+                        @Html.TextBox("Guardian", null, new { @class = "form-control", placeholder = "Enter Enter next kin", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>Date Of Birth*</label>
+                        @Html.TextBox("DateOfBirth", null, new { @class = "form-control", type = "date", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>Email*</label>
+                        @Html.TextBox("Email", null, new { @class = "form-control", type = "email", placeholder = "Enter Email", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>CNIC*</label>
+                        @Html.TextBox("CNIC", null, new { @class = "form-control", type = "number", min = "0", placeholder = "Enter CNIC", required = "required" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-lg-6">
+                <div class="input-group">
+                    <div class="input-group has-feedback">
+                        <label>Password*</label>
+                        @Html.TextBox("Password", null, new { @class = "form-control", type = "password", min = "0", placeholder = "Enter CNIC", required = "required" })
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="despane" class="tab-pane fade">
+            <h4><b>Address Information</b></h4>
+            <hr />
+            <div class="form-group col-lg-12">
+                <div class="input-group">
+                    <label>Address</label>
+                    @Html.TextBox("Address", null, new { @class = "form-control", placeholder = "Enter Address", required = "required" })
+                </div>
+            </div>
+            <div class="form-group form-inline col-lg-6">
+                <div class="input-group">
+                    <label>Cell No</label>
+                    @Html.TextBox("CellNo", null, new { @class = "form-control", type = "number", placeholder = "Enter Cell No", required = "required" })
+                </div>
+            </div>
+            <div class="form-group form-inline col-lg-6">
+                <div class="input-group">
+                    <label>Mobile No</label>
+                    @Html.TextBox("MobileNo", null, new { @class = "form-control", type = "number", placeholder = "Enter Mobile No", required = "required" })
+                </div>
+            </div>
+            @*  <div class="form-group form-inline col-lg-4">
+                    <div class="input-group">
+                        <br />
+                        @Html.DropDownList("Country", (IEnumerable<SelectListItem>)ViewBag.Country, "- Select Country -", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group col-lg-4">
+                    <div class="input-group">
+                        <br />
+                        @Html.DropDownList("Province", (IEnumerable<SelectListItem>)ViewBag.Province, "- Select Province -", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group col-lg-4">
+                    <div class="input-group">
+                        <br />
+                        @Html.DropDownList("City", (IEnumerable<SelectListItem>)ViewBag.City, "- Select City -", new { @class = "form-control" })
+                    </div>
+                </div>*@
+            <hr />
+        </div>
+    </div>
+    <div class="form-group" style="margin-top:15px;">
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-save"></span>&nbsp; Save</button>
+        <button type="reset" class="btn btn-default"><span class="glyphicon glyphicon-refresh"></span>&nbsp; Cancel</button>
+    </div>
+}

@@ -1,0 +1,44 @@
+﻿@using FYP.SSCard.WEB.UI.Models.Students
+@model StudentsModel
+
+
+@using (Html.BeginForm("delete", "students", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.Hidden("Id", Model.Id)
+    @Html.Hidden("StudentID", Model.StudentRollNo)
+    @Html.Hidden("FirstName", Model.FirstName)
+    @Html.Hidden("LastName", Model.LastName)
+    @Html.Hidden("FatherName", Model.FatherName)
+    @Html.Hidden("Guardian", Model.Guardian)
+    @Html.Hidden("DateOfBirth", Model.DateofBirth)
+    @Html.Hidden("Email", Model.Email)
+    @Html.Hidden("CNIC", Model.CNIC)
+    @Html.Hidden("Address", Model.Address)
+    @Html.Hidden("CellNo", Model.CellNo)
+    @Html.Hidden("Password", Model.Password)
+    @Html.Hidden("MobleNo", Model.MobileNo)
+    @Html.Hidden("image", Model.ImgUrl)
+
+
+    <div class="form-group">
+
+        <h4 style="margin:5px; padding:0px;">@Model.StudentRollNo </h4>
+        <h4 style="margin:5px; padding:0px;">@Model.FirstName </h4>
+        @* <h4 style="margin:5px; padding:0px;">@Model.LastName </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.FatherName </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.Guardian </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.DateofBirth </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.Email </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.CNIC </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.Address </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.Password </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.CellNo </h4>
+            <h4 style="margin:5px; padding:0px;">@Model.MobileNo </h4>*@
+        <img src="@Url.Content(Model.ImgUrl)" alt="Result Card" style="height:200px;width:200px;" class="img-responsive" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-danger"><span class="glyphicon glyphicon-trash"></span>&nbsp; Delete</button>
+        <button type="reset" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>&nbsp; Cancel</button>
+    </div>
+}

@@ -1,0 +1,41 @@
+﻿@using FYP.SSCard.WEB.UI.Models
+@model LoginModel
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    <style>
+        a {
+            color: #141A46;
+        }
+    </style>
+}
+
+<div style="margin-top:30px;">
+    <img src="~/Images/SSC.png" style="width:100%;height:400px;" />
+</div>
+@*<div class="col-lg-2" style="height:100px;background-color:#EC8B5E;">
+    <h1 class="glyphicon glyphicon-user col-lg-3 "></h1>
+    <h2 class="col-lg-9" style="margin-top:22px;">
+        <a href="/users/login">Admin</a>
+    </h2>
+</div>*@
+<div style="margin-top:20px;" class="col-lg-12">
+    <div class="col-lg-2" style="height:100px;margin-left:20px;background-color:#EC8B5E;">
+        <h1 class="glyphicon glyphicon-user col-lg-3 "><a href="~/Views/Users/Login.cshtml"></a></h1>
+        <h2 class="col-lg-9" style="margin-top:22px;"><a href="/users/login">Admin</a></h2>
+    </div>
+    <div class="col-lg-2" style="height:100px;margin-left:20px;background-color:#EC8B5E;">
+        <h1 class="glyphicon glyphicon-user col-lg-3 "><a href="~/Views/Users/Login.cshtml"></a></h1>
+        <h2 class="col-lg-9" style="margin-top:22px;"><a href="/users/login">Student</a></h2>
+    </div>
+    <div class="col-lg-2" style="height:100px;margin-left:20px;background-color:#EC8B5E;">
+        <h1 class="glyphicon glyphicon-user col-lg-3 "><a href="~/Views/Users/Login.cshtml"></a></h1>
+        <h2 class="col-lg-9" style="margin-top:22px;"><a href="/users/login">Library</a></h2>
+    </div>
+    <div class="col-lg-2" style="height:100px;margin-left:20px;background-color:#EC8B5E;">
+        <h1 class="glyphicon glyphicon-user col-lg-3 "><a href="~/Views/Users/Login.cshtml"></a></h1>
+        <h2 class="col-lg-9" style="margin-top:22px;"><a href="/users/login">Canteen</a></h2>
+    </div>
+</div>

@@ -1,0 +1,83 @@
+﻿
+body{
+    padding-top:65px;
+}
+
+
+.mytab-pane {
+    padding: 15px;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #ddd;
+    border-bottom: solid 1px #ddd;
+}
+
+.userIcon {
+    width: 20px;
+    height: 20px;
+}
+
+
+.dgIcon{
+    width:20px;
+    height:20px;
+}
+
+
+.bg-primary a{
+    color:#ffffff;
+}
+
+/********* Product Detail Styles**********/
+
+.pd-item {
+   
+}
+
+.pd-item h1{
+    padding:5px 0px;
+    margin:0px;
+    font-size:150%;
+    font-weight:normal;
+    font-style:normal;
+}
+
+.pd-sizewpr {
+    padding: 10px;
+    border: solid 1px #dddddd;
+    border-radius: 20px
+}
+
+.pd-sizewpr-selected {
+    background-color: #ef0c0c;
+    color: #ffffff;
+}
+
+
+/********* Product Summary Styles**********/
+.prodsum-item {
+    margin: 15px 0px;
+    text-align: center;
+    border: solid 1px #eaeaea;
+    padding: 5px;
+}
+
+.prodsum-item a{
+    text-decoration:none;
+}
+
+
+.prodsum-item h2{
+    padding:10px 0px 5px 0px;
+    margin:0px;
+    font-size:140%;
+    font-weight:normal;
+    color:#808080;
+}
+
+.prodsum-price {
+    font-size: 110%;
+    padding-bottom: 5px;
+    color: #808080;
+}
+
+

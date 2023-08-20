@@ -1,0 +1,26 @@
+﻿body{
+   padding-top: 60px;
+}
+
+.bg-primary a{
+    color:#ffffff;
+}
+
+.psitem{
+    margin-top:30px;
+    text-align:center;
+    border:solid 1px #e5e5e5;
+    padding:5px;
+}
+
+.dgicon {
+    width: 20px;
+    height: 20px;
+}
+
+.tab-pane-bordered {
+    padding: 15px;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #ddd;
+    border-bottom: solid 1px #ddd;
+}

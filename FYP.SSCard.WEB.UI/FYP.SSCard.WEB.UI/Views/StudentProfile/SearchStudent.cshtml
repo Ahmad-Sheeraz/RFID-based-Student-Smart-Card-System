@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "SearchStudent";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+}
+
+<div class="form-group">
+    <div class="input-group ">
+        <label>Qualification</label>
+        @* @Html.DropDownList("Qualification", (IEnumerable<SelectListItem>)ViewBag., "-Select Qualification -", new { @class = "form-control col-lg-5" })*@
+    </div>
+</div>
+
+
+
+<div class="form-group">
+    <div class="input-group">
+
+        <input type="text" id="searchQuery" placeholder="Enter Student Roll No" class="form-control" />
+        <span class="form-control-feedback"></span>
+        <button type="submit" class="btn btn-group-lg btn-primary" style="margin-top:10px;" onclick="search()">Search Profile</button>
+    </div>
+</div>
+
+<script>
+    function search() {
+        window.location.href = "http://localhost:50516/students/manage?searchQuery=" + document.getElementById("searchQuery").value + "&isSearchByRollNumberOnly=true";
+    }
+</script>
+
+
+

@@ -1,0 +1,84 @@
+﻿@using FYP.SSCard.WEB.UI.Models
+@using FYP.SSCard.WEB.UI.Models.Students
+@model IEnumerable<StudentsModel>
+@{
+    ViewBag.Title = "Manage";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+    AlertModel alert = (AlertModel)TempData["AlertMessage"];
+}
+
+@section myscript{
+    <script type="text/javascript">
+        $("#createlink,.dgdeletebtn,.dgeditbtn").click(function (event) {
+            event.preventDefault();
+            var url = $(this).attr("href");
+            var caption = $(this).data("caption");
+            $.ajax(
+                {
+                    url: url
+                }
+            ).done(function (createform) {
+                $("#mydialog-title").html(caption);
+                $("#mydialog-body").html(createform);
+                $("#mydialog").modal();
+            });
+        });
+    </script>
+}
+@if (alert != null)
+{
+    @Html.Partial("~/Views/Shared/_AlertView.cshtml", alert)
+}
+@Html.AntiForgeryToken()
+<div class="modal fade" id="mydialog" tabindex="-1" role="dialog" aria-labelledby="mydialog-label">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mydialog-title"></h4>
+            </div>
+            <div id="mydialog-body" class="modal-body"> </div>
+        </div>
+    </div>
+</div>
+
+<table id="tblcategories" class="table table-bordered">
+    <thead>
+        <tr class="bg-primary">
+            <th colspan="8">
+                <span>@ViewBag.Title &nbsp;&nbsp; <span class="hidden-print">[ <a id="createlink" href="/students/create" data-caption="Add New Student">Add Students</a> ]</span></span>
+                <span class="clearfix"></span>
+            </th>
+        </tr>
+        <tr class="bg-primary">
+            <th class="col-lg-1 col-md-1 col-sm-2 col-xs-2">Id</th>
+            <th class="col-lg-1 col-md-1 col-sm-2 col-xs-2">Roll No</th>
+            <th class="col-lg-1 col-md-1 col-sm-2 col-xs-2">Stu_Image</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Full Name</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Email</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Address</th>
+            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Cell No</th>
+            <th class="col-lg-2 hidden-print">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+
+        <tr>
+            <td class="col-lg-1 col-md-1 col-sm-2 col-xs-2">@m.Id</td>
+            <td class="col-lg-1 col-md-1 col-sm-2 col-xs-2">@m.StudentRollNo</td>
+            <td class="col-lg-1 col-md-1 col-sm-2 col-xs-2"><img src="@(m.ImgUrl!=null?Url.Content(m.ImgUrl):"#")" alt="Student Pic" class="dgicon" /></td>
+            <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">@m.FirstName @m.LastName</td>
+            <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">@m.Email</td>
+            <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">@m.Address</td>
+            <td class="col-lg-2 col-md-2 col-sm-4 col-xs-4">@m.CellNo</td>
+            <td class="col-lg-2 hidden-print">
+                <a class="btn btn-xs btn-primary dgdetailsbtn" href="/students/details/@m.Id"><span class="glyphicon glyphicon-search"></span></a>&nbsp;
+                <a class="btn btn-xs btn-warning dgeditbtn" href="/students/edit/@m.Id" data-caption="Edit Student Profile"><span class="glyphicon glyphicon-edit"></span></a>&nbsp;
+                <a class="btn btn-xs btn-danger dgdeletebtn" href="/students/delete/@m.Id" data-caption="Delete Student Profile"><span class="glyphicon glyphicon-trash"></span></a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

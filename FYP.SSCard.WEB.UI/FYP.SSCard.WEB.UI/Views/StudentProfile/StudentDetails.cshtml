@@ -1,0 +1,85 @@
+﻿@using FYP.SSCard.WEB.UI.Models.Students
+@model DetailsModel
+@{
+    ViewBag.Title = "Student Details";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+}
+<div class="pditem">
+    <div class="col-lg-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading"><h1 id="pdname">Student Profile*</h1></div>
+            <div class="panel-body">
+                <div class="col-lg-3">
+                    <img id="pdmainimage" src='@Url.Content(Model.students.ImgUrl)' alt="@Model.students.FirstName" class="img-responsive" />
+                </div>
+                <div class="col-lg-3">
+                    <h4> Student Roll no:</h4>
+                    <h4>Full Name:</h4>
+                    <h4>Father Name:</h4>
+                    <h4>Guardian:</h4>
+                    @* <h4>Date Of Birth:</h4>*@
+                    <h4>CNIC:</h4>
+                    <h4>Email:</h4>
+                    <h4>Password:</h4>
+                    <h4>Address:</h4>
+                    <h4>Mobile No:</h4>
+                    <h4>Cell No:</h4>
+                    @* <h4>Gender:</h4>
+            <h4>Religion:</h4>
+            <h4>Category:</h4>
+            <h4>Sub Category:</h4>
+            <h4>Country:</h4>
+            <h4>Province:</h4>
+            <h4>City:</h4>*@
+                </div>
+                <div class="col-lg-6">
+                    <h4 id="pdfathername">@Model.students.StudentRollNo</h4>
+                    <h4 id="pdFullname">@Model.students.FirstName @Model.students.LastName</h4>
+                    <h4 id="pdfathername">@Model.students.FatherName</h4>
+                    <h4 id="pdguardianname">@Model.students.Guardian</h4>
+                    @*<h4 id="pdCellnoname">@Model.DateofBirth</h4>*@
+                    <h4 id="pdCellnoname">@Model.students.CNIC</h4>
+                    <h4 id="pdCellnoname">@Model.students.Email</h4>
+                    <h4 id="pdCellnoname">@Model.students.Password</h4>
+                    <h4 id="pdCellnoname">@Model.students.Address</h4>
+                    <h4 id="pdCellnoname">@Model.students.MobileNo</h4>
+                    <h4 id="pdCellnoname">@Model.students.CellNo</h4>
+                </div>
+                <table class="table table-lg table-bordered">
+                    <thead>
+                        <tr class="bg-primary">
+                            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">Doc_Image</th>
+                            <th class="col-lg-2 col-md-1 col-sm-1 col-xs-1">Roll No</th>
+                            <th class="col-lg-2 col-md-2 col-sm-1 col-xs-1">Board</th>
+                            <th class="col-lg-2 col-md-2 col-sm-2 col-xs-2">Passing Year</th>
+                            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-2">Subject</th>
+                            @*<th class="col-lg-1 col-md-1 col-sm-2 col-xs-2">Qualification</th>*@
+                            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">T_Marks</th>
+                            <th class="col-lg-1 col-md-1 col-sm-1 col-xs-1">O_Marks</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var m in Model.documents)
+                        {
+                            if (m.StudentRollno == Model.students.StudentRollNo)
+                            {
+
+                                <tr>
+                                    <td class="col-lg-1 col-md-1 col-sm-1 col-xs-2"><img src="@Url.Content(m.Imageupload)" alt="Result Card" class="dgicon" /></td>
+                                    <td class="col-lg-2 col-md-1 col-sm-1 col-xs-2">@m.StudentRollno</td>
+                                    <td class="col-lg-2 col-md-2 col-sm-1 col-xs-1">@m.Board</td>
+                                    <td class="col-lg-2 col-md-2 col-sm-2 col-xs-2">@m.PassingYear</td>
+                                    <td class="col-lg-1 col-md-1 col-sm-1 col-xs-2">@m.Subject.</td>
+                                    @* <td class="col-lg-1 col-md-1 col-sm-2 col-xs-2">@m.QualificationCategories</td>*@
+                                    <td class="col-lg-1 col-md-1 col-sm-1 col-xs-1">@m.TotalMarks</td>
+                                    <td class="col-lg-1 col-md-1 col-sm-1 col-xs-1">@m.ObtainMarks</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

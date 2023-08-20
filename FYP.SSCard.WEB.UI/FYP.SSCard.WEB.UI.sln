@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYP.SSCard.WEB.UI", "FYP.SSCard.WEB.UI\FYP.SSCard.WEB.UI.csproj", "{CC44071E-4753-4327-82BF-7E846FCC75D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSmartCard", "StudentSmartCard\StudentSmartCard.csproj", "{E90F3C6B-0DF8-421E-8A9B-220BB5523A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC44071E-4753-4327-82BF-7E846FCC75D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC44071E-4753-4327-82BF-7E846FCC75D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC44071E-4753-4327-82BF-7E846FCC75D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC44071E-4753-4327-82BF-7E846FCC75D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90F3C6B-0DF8-421E-8A9B-220BB5523A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90F3C6B-0DF8-421E-8A9B-220BB5523A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90F3C6B-0DF8-421E-8A9B-220BB5523A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90F3C6B-0DF8-421E-8A9B-220BB5523A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DA433A-CCF7-4261-BB49-58AC761151D7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,96 @@
+﻿@using StudentSmartCard.UserManagement
+@{
+    User currentUser = Session[WebUtil.CURRENT_USER] as User;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/main.css" rel="stylesheet" />
+    @RenderSection("mystyles", false)
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-fixed-top" style="background-color:#EC8B5E;">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainmenu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <h2><i class="glyphicon glyphicon-education"></i>@Html.ActionLink("Student Smart Card Web", "Index", "Home", new { style = "text-decoration:none;" })</h2>
+                </div>
+
+                <div class="collapse navbar-collapse" id="mainmenu">
+                    <ul class="nav navbar-nav navbar-right">
+                        @if (currentUser == null)
+                        {
+
+                            <li><a href='@Url.Content("~/users/login")'><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                        }
+                        else
+                        {
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span>&nbsp;  @currentUser.Name <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div style="padding:15px;">
+                                            @if (!string.IsNullOrWhiteSpace(currentUser.ImageUrl))
+                                            {
+                                                <img src="@Url.Content(currentUser.ImageUrl)" class="img-responsive" />
+                                            }
+                                            else
+                                            {
+
+                                                <img src="@Url.Content("~/Images/Others/user.png")" class="img-responsive" />
+                                            }
+                                        </div>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li><a href="#"><span class="glyphicon glyphicon-user"></span>&nbsp; Profile </a> </li>
+                                    <li><a href="#"><span class="glyphicon glyphicon-lock"></span>&nbsp; Change Password </a> </li>
+                                    <li class="divider"></li>
+                                    <li><a href="~/users/logout"><span class="glyphicon glyphicon-log-out"></span>&nbsp; Log Out </a> </li>
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <div id="maincontents" class="container-fluid" style="margin-top:20px;">
+        <div class="col-lg-3">
+            <ul class="list-group">
+                @{
+                    if (currentUser.Role.Id ==  (int)FYP.SSCard.WEB.UI.Roles.Admin)
+                    {
+                        <li class="list-group-item"> @Html.ActionLink("Add Student", "manage", "students")</li>
+                        <li class="list-group-item"> @Html.ActionLink("Documents", "manage", "documents")</li>
+                        <li class="list-group-item"> @Html.ActionLink("Add Balance", "cardrecharge", "admin")</li>
+                        <li class="list-group-item"> @Html.ActionLink("Student Profile", "searchstudent", "studentprofile")</li>
+                        <li class="list-group-item"> @Html.ActionLink("Log Out", "logout", "users")</li>
+                    }
+                }
+
+            </ul>
+        </div>
+        <div class="col-lg-9">
+            @RenderBody()
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/evs.js"></script>
+    @RenderSection("myscript", false)
+</body>
+</html>

@@ -1,0 +1,91 @@
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe.config
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.exe
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Documents\Fyp\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate.resources
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.GenerateResource.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate1.resources
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe.config
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate1.resources
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.exe
+C:\Users\user\Desktop\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate.resources
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate1.resources
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.GenerateResource.cache
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll.config
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll
+C:\Users\Aaqib Maan\Music\New\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll.config
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate1.resources
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.GenerateResource.cache
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.dll
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.student_card.resources
+C:\Users\atif\Desktop\Smart-Card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.student_card_update.resources
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll.config
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\StudentSmartCard.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.InitialCreate1.resources
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.student_card.resources
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.student_card_update.resources
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.scancardinformation_update.resources
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csproj.CopyComplete
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.dll
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.pdb
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Scan card\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Debug\StudentSmartCard.Migrations.test.resources

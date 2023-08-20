@@ -1,0 +1,38 @@
+﻿@using FYP.SSCard.WEB.UI.Models.Documents
+@model DocumentsModel
+@{
+    ViewBag.Title = "Student Document";
+    Layout = "~/Views/Shared/_AdminPageLayout.cshtml";
+}
+
+<div class="pditem">
+    <div class="col-lg-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading"><h1 id="pdname">Student Document*</h1></div>
+            <div class="panel-body">
+                <div class="col-lg-3">
+                    <img id="pdmainimage" src='@Url.Content(Model.Imageupload)' alt="@Model.StudentRollno" class="img-responsive" />
+                </div>
+                <div class="col-lg-3">
+                    <h4>Student Roll no:</h4>
+                    <h4>Board:</h4>
+                    <h4>Passing Year:</h4>
+                    <h4>Subject:</h4>
+                    <h4>Total_Marks:</h4>
+                    <h4>Obtain Marks:</h4>
+                    <h4>Qualification</h4>
+                </div>
+                <div class="col-lg-6">
+                    <h4 id="pdfathername">@Model.StudentRollno</h4>
+                    <h4 id="pdFullname">@Model.Board</h4>
+                    <h4 id="pdfathername">@Model.PassingYear</h4>
+                    <h4 id="pdguardianname">@Model.Subject</h4>
+                    <h4 id="pdCellnoname">@Model.TotalMarks</h4>
+                    <h4 id="pdCellnoname">@Model.ObtainMarks</h4>
+                    @*<h4 id="pdCellnoname">@Model.QualificationCategories</h4>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,12 @@
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\StudentSmartCard.exe.config
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\StudentSmartCard.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\StudentSmartCard.pdb
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\EntityFramework.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\EntityFramework.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Release\StudentSmartCard.csprojAssemblyReference.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Release\StudentSmartCard.csproj.CoreCompileInputs.cache
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Release\StudentSmartCard.csproj.CopyComplete
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Release\StudentSmartCard.exe
+C:\Users\atif\Desktop\Sheeraz\FYP.SSCard.WEB.UI\StudentSmartCard\obj\Release\StudentSmartCard.pdb
